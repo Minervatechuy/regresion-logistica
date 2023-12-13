@@ -1,2 +1,0 @@
-# regresion-logistica
-Regresion Logistica
